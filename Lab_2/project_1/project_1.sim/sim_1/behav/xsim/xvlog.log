@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/jam/Documents/1.Freelancer/inProgress/4Labs/Lab_2/project_1/project_1.srcs/sources_1/new/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/jam/Documents/1.Freelancer/inProgress/4Labs/Lab_2/project_1/project_1.srcs/sources_1/new/alu_control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu_control
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/jam/Documents/1.Freelancer/inProgress/4Labs/Lab_2/project_1/project_1.srcs/sim_1/new/lab02_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module myalu_tb

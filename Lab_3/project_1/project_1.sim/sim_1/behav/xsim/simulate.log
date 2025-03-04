@@ -1,0 +1,25 @@
+Time resolution is 1 ps
+	Test Case 1: R-type (add) ...passed
+	Test Case 2 ...passed
+	Test Case 3....passed
+	Test Case 4....passed
+	Test Case 5....passed
+	Test Case 6....passed
+	Test Case 7....passed
+	Test Case 8....passed
+	Test Case 9 ....	Test Case 1: R-type (add) ...passed
+	Test Case 2 ...passed
+	Test Case 3....passed
+	Test Case 4....passed
+	Test Case 5....passed
+	Test Case 6....passed
+	Test Case 7....passed
+	Test Case 8....passed
+	Test Case 9 ....passed
+	Test Case 10 ....passed
+
+--------------------------------------------------------------
+Testing complete
+Passed 10 / 10 tests
+--------------------------------------------------------------
+$finish called at time : 1160 ns : File "/home/jam/Documents/1.Freelancer/inProgress/4Labs/Lab_3/project_1/project_1.srcs/sim_1/new/lab03_tb.v" Line 197

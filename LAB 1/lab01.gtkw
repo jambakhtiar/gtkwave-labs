@@ -1,0 +1,28 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Mon Jan  8 23:44:17 2024
+[*]
+[dumpfile] "/workspaces/Lab01-ClocksAndTestBenches/lab01.vcd"
+[dumpfile_mtime] "Mon Jan  8 23:41:52 2024"
+[dumpfile_size] 230229
+[savefile] "/workspaces/Lab01-ClocksAndTestBenches/lab01.gtkw"
+[timestart] 1725000
+[size] 1000 600
+[pos] 78 143
+*-20.182913 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] lab01_tb.
+[sst_width] 214
+[signals_width] 158
+[sst_expanded] 1
+[sst_vpaned_height] 151
+@28
+lab01_tb.clk
+lab01_tb.tick_100_2
+lab01_tb.tick_100_5
+lab01_tb.tick_100_50
+@420
+lab01_tb.high_count
+@421
+lab01_tb.transition_count
+[pattern_trace] 1
+[pattern_trace] 0

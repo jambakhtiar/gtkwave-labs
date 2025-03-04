@@ -1,0 +1,8 @@
+0.7
+2020.2
+Oct 13 2023
+20:21:30
+/home/jam/Documents/1.Freelancer/inProgress/4Labs/Lab_2/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+/home/jam/Documents/1.Freelancer/inProgress/4Labs/Lab_2/project_1/project_1.srcs/sim_1/new/lab02_tb.v,1717812753,verilog,,,,myalu_tb,,,,,,,,
+/home/jam/Documents/1.Freelancer/inProgress/4Labs/Lab_2/project_1/project_1.srcs/sources_1/new/alu.v,1717810477,verilog,,/home/jam/Documents/1.Freelancer/inProgress/4Labs/Lab_2/project_1/project_1.srcs/sources_1/new/alu_control.v,,alu,,,,,,,,
+/home/jam/Documents/1.Freelancer/inProgress/4Labs/Lab_2/project_1/project_1.srcs/sources_1/new/alu_control.v,1717808634,verilog,,/home/jam/Documents/1.Freelancer/inProgress/4Labs/Lab_2/project_1/project_1.srcs/sim_1/new/lab02_tb.v,,alu_control,,,,,,,,

@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/jam/Documents/1.Freelancer/inProgress/4Labs/Lab_6/Lab06-Caches-main/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/matrix-mul-row-major.dir/program0.cpp.o -c /home/jam/Documents/1.Freelancer/inProgress/4Labs/Lab_6/Lab06-Caches-main/program0.cpp",
+  "file": "/home/jam/Documents/1.Freelancer/inProgress/4Labs/Lab_6/Lab06-Caches-main/program0.cpp"
+},
+{
+  "directory": "/home/jam/Documents/1.Freelancer/inProgress/4Labs/Lab_6/Lab06-Caches-main/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/matrix-mul-col-major.dir/program1.cpp.o -c /home/jam/Documents/1.Freelancer/inProgress/4Labs/Lab_6/Lab06-Caches-main/program1.cpp",
+  "file": "/home/jam/Documents/1.Freelancer/inProgress/4Labs/Lab_6/Lab06-Caches-main/program1.cpp"
+},
+{
+  "directory": "/home/jam/Documents/1.Freelancer/inProgress/4Labs/Lab_6/Lab06-Caches-main/build",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/hello_c.dir/hello.c.o -c /home/jam/Documents/1.Freelancer/inProgress/4Labs/Lab_6/Lab06-Caches-main/hello.c",
+  "file": "/home/jam/Documents/1.Freelancer/inProgress/4Labs/Lab_6/Lab06-Caches-main/hello.c"
+},
+{
+  "directory": "/home/jam/Documents/1.Freelancer/inProgress/4Labs/Lab_6/Lab06-Caches-main/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/hello_cpp.dir/hello.cpp.o -c /home/jam/Documents/1.Freelancer/inProgress/4Labs/Lab_6/Lab06-Caches-main/hello.cpp",
+  "file": "/home/jam/Documents/1.Freelancer/inProgress/4Labs/Lab_6/Lab06-Caches-main/hello.cpp"
+}
+]

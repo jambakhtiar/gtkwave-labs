@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lab06-Caches",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "hello_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hello_c-Debug-06d753ebf4508f303479.json",
+					"name" : "hello_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hello_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hello_cpp-Debug-aa25888bd62b2d52b797.json",
+					"name" : "hello_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "matrix-mul-col-major::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-matrix-mul-col-major-Debug-ebff5ece05703dba8fe5.json",
+					"name" : "matrix-mul-col-major",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "matrix-mul-row-major::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-matrix-mul-row-major-Debug-b5b749cd3a8e0748be84.json",
+					"name" : "matrix-mul-row-major",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jam/Documents/1.Freelancer/inProgress/4Labs/Lab_6/Lab06-Caches-main/build",
+		"source" : "/home/jam/Documents/1.Freelancer/inProgress/4Labs/Lab_6/Lab06-Caches-main"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

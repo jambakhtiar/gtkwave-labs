@@ -1,0 +1,57 @@
+Time resolution is 1 ps
+	Test Case 1: And ... passed
+	Test Case 2:  ... passed
+	Test Case 3:  ... passed
+	Test Case 4:  ... passed
+	Test Case 5:  ... passed
+	Test Case 6:  ... passed
+	Test Case 7:  ... passed
+	Test Case 8:  ... passed
+	Test Case 9:  ... passed
+	Test Case 10:  ... passed
+	Test Case 11:  ... passed
+	Test Case 12:  ... passed
+	Test Case 13:  ... passed
+	Test Case 14:  ... passed
+	Test Case 15:  ... passed
+	Test Case 16:  ... passed
+	Test Case 17:  ... passed
+	Test Case 18:  ... passed
+	Test Case 19:  ... passed
+	Test Case 20:  ... passed
+	Test Case 21:  ... passed
+	Test Case 22:  ... passed
+
+-------------------------------------------------------
+Testing complete
+Passed 22 / 22 tests
+-------------------------------------------------------
+$finish called at time : 2580 ns : File "/home/jam/Documents/1.Freelancer/inProgress/4Labs/Lab_2/project_1/project_1.srcs/sim_1/new/lab02_tb.v" Line 208
+	Test Case 1: And ... passed
+	Test Case 2:  ... passed
+	Test Case 3:  ... passed
+	Test Case 4:  ... passed
+	Test Case 5:  ... passed
+	Test Case 6:  ... passed
+	Test Case 7:  ... passed
+	Test Case 8:  ... passed
+	Test Case 9:  ... passed
+	Test Case 10:  ... passed
+	Test Case 11:  ... passed
+	Test Case 12:  ... passed
+	Test Case 13:  ... passed
+	Test Case 14:  ... passed
+	Test Case 15:  ... passed
+	Test Case 16:  ... passed
+	Test Case 17:  ... passed
+	Test Case 18:  ... passed
+	Test Case 19:  ... passed
+	Test Case 20:  ... passed
+	Test Case 21:  ... passed
+	Test Case 22:  ... passed
+
+-------------------------------------------------------
+Testing complete
+Passed 22 / 22 tests
+-------------------------------------------------------
+$finish called at time : 2580 ns : File "/home/jam/Documents/1.Freelancer/inProgress/4Labs/Lab_2/project_1/project_1.srcs/sim_1/new/lab02_tb.v" Line 208

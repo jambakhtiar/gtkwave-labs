@@ -1,0 +1,14 @@
+iverilog -o lab06_sim -Pcache_tb.ASSOCIATIVITY=2 -Pcache_tb.CACHE_SIZE=8192 -Pcache_tb.REPLACEMENT=\"LRU\" -Pcache_tb.TRACE_FILE=\"hello_c.I.mem\" cache.v cache_tb.v set.v encoder.v lru_replacement.v fifo_replacement.v
+
+
+iverilog -o lab06_sim -Pcache_tb.ASSOCIATIVITY=2 -Pcache_tb.CACHE_SIZE=8192 -Pcache_tb.REPLACEMENT=\"LRU\" -Pcache_tb.TRACE_FILE=\"hello_cpp.I.mem\" cache.v cache_tb.v set.v encoder.v lru_replacement.v fifo_replacement.v
+
+iverilog -o lab06_sim -Pcache_tb.ASSOCIATIVITY=2 -Pcache_tb.CACHE_SIZE=8192 -Pcache_tb.REPLACEMENT=\"LRU\" -Pcache_tb.TRACE_FILE=\"matrix-mul-col-major.I.mem\" cache.v cache_tb.v set.v encoder.v lru_replacement.v fifo_replacement.v
+
+
+iverilog -o lab06_sim -Pcache_tb.ASSOCIATIVITY=2 -Pcache_tb.CACHE_SIZE=8192 -Pcache_tb.REPLACEMENT=\"LRU\" -Pcache_tb.TRACE_FILE=\"matrix-mul-row-major.I.mem\" cache.v cache_tb.v set.v encoder.v lru_replacement.v fifo_replacement.v
+
+
+
+
+vvp lab06_sim
